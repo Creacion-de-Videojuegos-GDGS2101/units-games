@@ -1,6 +1,6 @@
 # Creación de Video Juego
 <p align="center">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.techradar.com%2Fbest%2Fbest-free-web-browser-games-10-games-you-have-to-play&psig=AOvVaw09zXby9Ma6iuoNxaoHnsW3&ust=1666650768717000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCPi9toq09_oCFQAAAAAdAAAAABAJ" alt="Logo" width=1200 height=300>
+    <img src="https://cdn.mos.cms.futurecdn.net/DEn34uMquzsacN6PRH8epF.jpg" alt="Logo" width=1200 height=300>
 
 
 ## Contenido
