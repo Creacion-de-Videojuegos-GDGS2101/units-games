@@ -1,15 +1,6 @@
 # Creación de Video Juego
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/8560750/195950148-0c0df38e-5f96-45ae-87c3-6922738c612d.jpg" alt="Logo" width=1200 height=300>
-
-  <p align="center">
-    Short description
-    <br>
-    <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
-    ·
-    <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a>
-  </p>
-</p>
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.techradar.com%2Fbest%2Fbest-free-web-browser-games-10-games-you-have-to-play&psig=AOvVaw09zXby9Ma6iuoNxaoHnsW3&ust=1666650768717000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCPi9toq09_oCFQAAAAAdAAAAABAJ" alt="Logo" width=1200 height=300>
 
 
 ## Contenido
@@ -23,18 +14,18 @@
 
 ## Introducción
 
-- Nombre del proyecto
-- Objetivo.
-- Plataforma ,Género, Clasificación, Personajes, Escenario.
-- Historia
-- Personajes
-- Reglas de Juego.
-- Pantallas de Juego
-- Plan de creación de VideoJuego.
+- Nombre del proyecto : 
+- Objetivo :
+- Plataforma ,Género, Clasificación, Personajes, Escenario :
+- Historia :
+- Personajes :
+- Reglas de Juego :
+- Pantallas de Juego :
+- Plan de creación de VideoJuego :
 
 ## Código Fuente
 
-* Lección 1
+<!-- * Lección 1
   * > Tutorial
   * > Laboratorio
   * > Desafío
@@ -43,30 +34,21 @@
   * > Tutorial
   * > Laboratorio
   * > Desafío
-  * > Prueba
+  * > Prueba -->
 * Lección 3
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
-* Lección 4
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
-* Lección 5
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
-  * > Prueba
+
+ <img src="https://connect-prd-cdn.unity.com/20190606/learn/images/998f1459-9767-49af-a033-b1e52a38bc66_P31080pBanner__1_.png.2000x0x1.webp" alt="Logo" width=1200 height=300>
+  * [Unidad 3 - Sonido y efectos] (https://github.com/Creacion-de-Videojuegos-GDGS2101/units-games/tree/master/Leccion-3)
+  * [Unidad 3 - Lab 3] (https://github.com/Creacion-de-Videojuegos-GDGS2101/units-games/tree/master/Lab-3)
+  *[Unidad 3 - Challenge 3] (https://github.com/Creacion-de-Videojuegos-GDGS2101/units-games/tree/master/challenge%20-3)
+
 * VideoJuego
 
 ## Planificación
 
-![4337008](https://user-images.githubusercontent.com/8560750/195951617-083a7e4d-323d-47b5-8e5e-529ded31bc06.jpg)
 
 ## Autores
-Bill Gates & Steve Jobs
+José Guillermo Balderas Zamora
 
 ## Copyright
-Derechos Reservados 2022
+Derechos Reservados 2022 Guillermo Balderas Zamora
