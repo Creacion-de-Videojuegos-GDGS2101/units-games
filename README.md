@@ -19,7 +19,7 @@
 - Objetivo : El jugador tendrá que pasar por una serie de niveles los cuales se desarrollaran dentro de un laberinto con la finalidad de que el personaje principal(3 vidas) llegue a la copa del mundo y así logré ganar el juego.
 
 - Plataforma : PC
-- Tipo de Juego a desarrollar : 3D
+- Modelado del juego: 3D
 - Género : Aventura
 - Clasificación : Clasificación “A”: Contenido para todo el público
 - Personajes : Cristiano Ronaldo: Personaje principal que buscará lograr la obtención de la copa del mundo.
