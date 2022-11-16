@@ -25,22 +25,32 @@
 - Personajes: Cristiano Ronaldo: Personaje principal que buscará lograr la obtención de la copa del mundo.
 
   Lionel Messi: Personaje secundario el cual es el que hurto la copa del mundo.
-
 - Escenario: El juego se desarrollará dentro de un escenario similar al de un campo de fútbol, además de ello, los bloques del laberinto serán bloques de concreto 
+
 
 - Historia: El juego relata la historia de un jugador de fútbol que lleva por nombre Cristiano Ronaldo que usa el dorsal 7 dentro de la selección de PT, su objetivo principal se centra en conseguir la copa del mundo, el cual es el único título que le falta dentro de sus filas, es por ello por lo que está en busca de ella para ser campeón y ser el mejor jugador del mundo. Messi ha robado la copa del mundo de Qatar 2022, se menciona que la ya mencionada ha sido llevado a una serie de laberintos los cuales tienen que ser pasados de manera exitosa para que dentro del último nivel el ganador se lleve la copa. Es por ello por lo que CR7 al ver la situación se ofrece cruzar esos niveles a pesar del riesgo que conlleva, pasando por varios retos como el toparse con Messi y así mismo lograr esquivarlo además bonificaciones para la obtención del título. ¿Logrará CR7 volver con la copa y así mismo ser campeón?
 
--Niveles:
-Nivel 1: El jugador empezara recorriendo el lugar del laberinto, donde podrá ir recogiendo bonus (balones de futbol), estos se empezarán a sumar para ir avanzando en el nivel, al momento que el jugador recoja 10 bonus, y esquive todos los obstáculos que se presenten (Messi); en la pantalla aparecerá un mensaje donde notifique al jugador que ha avanzado al Nivel 2.
 
-Nivel 2: El jugador seguirá recorriendo el lugar del laberinto, y de igual manera tendrá que recoger bonus, sin embargo, ahora tendrá que encontrar la salida del laberinto para poder terminar el juego, esquivando los obstáculos de igual manera, aunque aumentaran los obstáculos para este nivel, siendo asi que habrá Messi, tarjetas rojas, y lesiones, en caso de que llegue a chocar con algún obstáculo se restara el bonus del jugador y restara vidas de este. En caso de que las vidas lleguen a 0 el juego será terminado y mostrara un mensaje de Game Over.
+
+-Niveles:
+
+Nivel 1: El jugador empezará recorriendo el lugar del laberinto, donde podrá ir recogiendo bonus (balones de futbol), estos se empezarán a sumar para ir avanzando en el nivel, al momento que el jugador recoja 10 bonus, y esquive todos los obstáculos que se presenten (Messi); en la pantalla aparecerá un mensaje donde notifique al jugador que ha avanzado al Nivel 2.
+
+
+
+Nivel 2: El jugador seguirá recorriendo el lugar del laberinto, y de igual manera tendrá que recoger bonus, sin embargo, ahora tendrá que encontrar la salida del laberinto para poder terminar el juego, esquivando los obstáculos de igual manera, aunque aumentaran los obstáculos para este nivel, siendo así que habrá Messi, tarjetas rojas, y lesiones, en caso de que llegue a chocar con algún obstáculo se restara el bonus del jugador y restara vidas de este. En caso de que las vidas lleguen a 0 el juego será terminado y mostrara un mensaje de Game Over.
+
+
 
 - Reglas de Juego: 
-1.	 El player deberá evitar los obstáculos esquivándolos, para poder llegar al final del nivel.
-2.	Para llegar al final del juego, el player deberá concluir los 3 niveles solicitados.
-3.	El player no podrá hacer trampa alguna para concluir algún nivel.
-4.	El player deberá seguir teniendo créditos para no dejar de jugar, por lo contrario, se acabará el juego.
 
+1.	 El player deberá evitar los obstáculos esquivándolos, para poder llegar al final del nivel.
+
+2.	Para llegar al final del juego, el player deberá concluir los 3 niveles solicitados.
+
+3.	El player no podrá hacer trampa alguna para concluir algún nivel.
+
+4.	El player deberá seguir teniendo créditos para no dejar de jugar, por lo contrario, se acabará el juego.
 
 - Pantallas de Juego :
  <img src="campo.png" alt="Logo" width=1200 height=300>
