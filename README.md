@@ -93,10 +93,10 @@ Nivel 2: El jugador seguirá recorriendo el lugar del laberinto, y de igual mane
 [Unidad 4 - Gameplay Mechanics](https://github.com/Creacion-de-Videojuegos-GDGS2101/units-games/tree/master/Unidad%204/Leccion4)
 
 
-[Unidad 4 - Lab 3](https://github.com/Creacion-de-Videojuegos-GDGS2101/units-games/tree/master/Unidad%204/Laboratorio4)
+[Unidad 4 - Lab 4](https://github.com/Creacion-de-Videojuegos-GDGS2101/units-games/tree/master/Unidad%204/Laboratorio4)
 
 
-[Unidad 4 - Challenge 3](https://github.com/Creacion-de-Videojuegos-GDGS2101/units-games/tree/master/Unidad%204/Desafio4)
+[Unidad 4 - Challenge 4](https://github.com/Creacion-de-Videojuegos-GDGS2101/units-games/tree/master/Unidad%204/Desafio4)
 
 [Unidad 4 - Evidencia Quiz (video)](https://github.com/Creacion-de-Videojuegos-GDGS2101/units-games/blob/master/Unidad%204/evidencia%20quiz%204.mkv)
 
