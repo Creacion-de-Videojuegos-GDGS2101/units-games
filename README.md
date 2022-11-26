@@ -70,6 +70,38 @@ Nivel 2: El jugador seguirá recorriendo el lugar del laberinto, y de igual mane
   * > Laboratorio
   * > Desafío
   * > Prueba -->
+* Lección 1
+<p> <img src="https://connect-prd-cdn.unity.com/20221103/learn/images/5f07f4c0-6960-440e-8d9b-e188a3bc0bbe_Unit1.png.600x0x1.webp" alt="Logo" width=1200 height=300></p>
+
+
+[Unidad 1 - El control del Jugador](https://github.com/Creacion-de-Videojuegos-GDGS2101/units-games/tree/master/Unidad%201/Leccion1)
+
+
+[Unidad 1 - Lab 1](https://github.com/Creacion-de-Videojuegos-GDGS2101/units-games/tree/master/Unidad%201/Lab1)
+
+
+[Unidad 1 - Challenge 1](https://github.com/Creacion-de-Videojuegos-GDGS2101/units-games/tree/master/Unidad%201/Desafio)
+
+[Unidad 1 - Evidencia Quiz (video)](https://github.com/Creacion-de-Videojuegos-GDGS2101/units-games/blob/master/Unidad%201/Evidencias%20Prueba%201%20y%20Prueba%202.mkv)
+
+
+* Lección 2
+<p> <img src="https://connect-prd-cdn.unity.com/20190516/learn/images/bf8d3473-c257-4b77-baec-74c0e35d554a_p21080pBanner.png.600x0x1.webp" alt="Logo" width=1200 height=300></p>
+
+
+[Unidad 2 - Jugabilidad Basica](https://github.com/Creacion-de-Videojuegos-GDGS2101/units-games/tree/master/Unidad%202/Leccion2)
+
+
+[Unidad 2 - Lab 2](https://github.com/Creacion-de-Videojuegos-GDGS2101/units-games/tree/master/Unidad%202/Lab2)
+
+
+[Unidad 2 - Challenge 2](https://github.com/Creacion-de-Videojuegos-GDGS2101/units-games/tree/master/Unidad%202/Desafio2)
+
+[Unidad 2 - Evidencia Quiz (video)](https://github.com/Creacion-de-Videojuegos-GDGS2101/units-games/blob/master/Unidad%202/Evidencias%20Prueba%201%20y%20Prueba%202.mkv)
+
+
+
+
 * Lección 3
 <p> <img src="https://connect-prd-cdn.unity.com/20190606/learn/images/998f1459-9767-49af-a033-b1e52a38bc66_P31080pBanner__1_.png.2000x0x1.webp" alt="Logo" width=1200 height=300></p>
 
