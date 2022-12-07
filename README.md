@@ -16,7 +16,8 @@
 
 - Nombre del proyecto: CR7 Champion.
 
-- Objetivo: El jugador tendrá que pasar por una serie de niveles los cuales se desarrollaran dentro de un laberinto con la finalidad de que el personaje principal (3 vidas) llegué a la copa del mundo y así logré ganar el juego.
+- Objetivo: El jugador tendrá que pasar por una serie de niveles los cuales se desarrollaran dentro de un laberinto con la finalidad de que el personaje principal (limite de tiempo) llegué a la copa del mundo y así logré ganar el juego.
+
 
 - Plataforma: PC
 - Modelado del juego: 3D
@@ -34,23 +35,21 @@
 
 -Niveles:
 
-Nivel 1: El jugador empezará recorriendo el lugar del laberinto, donde podrá ir recogiendo bonus (balones de futbol), estos se empezarán a sumar para ir avanzando en el nivel, al momento que el jugador recoja 10 bonus, y esquive todos los obstáculos que se presenten (Messi); en la pantalla aparecerá un mensaje donde notifique al jugador que ha avanzado al Nivel 2.
+Nivel 1: El jugador empezará recorriendo el lugar del laberinto, donde podrá ir recogiendo bonus (relojes), estos se empezarán a sumar tiempo en el nivel. Al recoger la copa el player tendrá que encontrar la salida en alguna de las 4 puertas.
 
 
-
-Nivel 2: El jugador seguirá recorriendo el lugar del laberinto, y de igual manera tendrá que recoger bonus, sin embargo, ahora tendrá que encontrar la salida del laberinto para poder terminar el juego, esquivando los obstáculos de igual manera, aunque aumentaran los obstáculos para este nivel, siendo así que habrá Messi, tarjetas rojas, y lesiones, en caso de que llegue a chocar con algún obstáculo se restara el bonus del jugador y restara vidas de este. En caso de que las vidas lleguen a 0 el juego será terminado y mostrara un mensaje de Game Over.
-
+Nivel 2: El jugador seguirá recorriendo el lugar del laberinto, y de igual manera tendrá que recoger bonus, sin embargo, ahora el juego tendrá más dificultad y además el terreno del juego será más grande, dado por hecho que será aún más difícil. El player de igual manera tendrá que encontrar la copa para poder terminar el nivel y asi ganar.
 
 
 - Reglas de Juego: 
 
-1.	 El player deberá evitar los obstáculos esquivándolos, para poder llegar al final del nivel.
+1. El player deberá evitar los obstáculos esquivándolos, para poder llegar al final del nivel.
 
-2.	Para llegar al final del juego, el player deberá concluir los 3 niveles solicitados.
+2. Para llegar al final del juego, el player deberá concluir los 3 niveles solicitados.
 
-3.	El player no podrá hacer trampa alguna para concluir algún nivel.
+3. El player no podrá hacer trampa alguna para concluir algún nivel.
 
-4.	El player deberá seguir teniendo créditos para no dejar de jugar, por lo contrario, se acabará el juego.
+4. El player deberá seguir teniendo créditos para no dejar de jugar, por lo contrario, se acabará el juego.
 
 - Pantallas de Juego :
  <img src="campo.png" alt="Logo" width=1200 height=300>
