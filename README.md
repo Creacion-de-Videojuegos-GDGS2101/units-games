@@ -148,6 +148,9 @@ Nivel 2: El jugador seguirá recorriendo el lugar del laberinto, y de igual mane
 [Unidad 5 - Evidencia Quiz (video)](https://github.com/Creacion-de-Videojuegos-GDGS2101/units-games/blob/master/Unidad%205/evidenciia%20quiz%205.mkv)
 
 * VideoJuego
+[Version Final Assets](https://github.com/Creacion-de-Videojuegos-GDGS2101/units-games/tree/master/Version%20Final)
+
+[Deploy](https://github.com/Creacion-de-Videojuegos-GDGS2101/units-games/tree/master/Deploy)
 
 ## Planificación
 
